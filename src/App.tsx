@@ -10,14 +10,14 @@ function App() {
   return (
     <>
       <div className='flex justify-around'>
-        <a href='https://vitejs.dev' target='_blank'>
+        <a href='https://vitejs.dev' target='_blank' rel='noreferrer'>
           <img
             src={viteLogo}
             className='h-24 p-2 will-change-[filter] transition-[filter_300ms] hover:drop-shadow-[0_0_2em_#646cffaa]'
             alt='Vite logo'
           />
         </a>
-        <a href='https://react.dev' target='_blank'>
+        <a href='https://react.dev' target='_blank' rel='noreferrer'>
           <img
             src={reactLogo}
             className='h-24 p-2 will-change-[filter] transition-[filter_300ms] hover:drop-shadow-[0_0_2em_#61dafbaa] animate-[spin_infinite_20s_linear] motion-reduce:animate-none'
@@ -29,7 +29,9 @@ function App() {
       <div className='p-8'>
         <button
           className='bg-[#1a1a1a] border border-transparent rounded px-3 py-2 font-medium transition-colors hover:border-[#646cff] focus:outline-[4px_auto_-webkit-focus-ring-color] focus:visible:outline-[4px_auto_-webkit-focus-ring-color]'
-          onClick={() => setCount((count) => count + 1)}
+          onClick={() => {
+            setCount((count) => count + 1)
+          }}
         >
           count is {count}
         </button>
