@@ -28,7 +28,7 @@ function App() {
       <h1 className='font-bold text-5xl'>Vite + React</h1>
       <div className='p-8'>
         <button
-          className='bg-[#1a1a1a] border border-transparent rounded px-3 py-2 font-medium transition-colors hover:border-[#646cff] focus:outline-[4px_auto_-webkit-focus-ring-color] focus:visible:outline-[4px_auto_-webkit-focus-ring-color]'
+          className='bg-[#f9f9f9] dark:bg-[#1a1a1a] border border-transparent rounded px-3 py-2 font-medium transition-colors hover:border-[#646cff] focus:outline-[4px_auto_-webkit-focus-ring-color] focus:visible:outline-[4px_auto_-webkit-focus-ring-color]'
           onClick={() => {
             setCount((count) => count + 1)
           }}
