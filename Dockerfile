@@ -1,4 +1,4 @@
-FROM node:lts-alpine@sha256:ef3f47741e161900ddd07addcaca7e76534a9205e4cd73b2ed091ba339004a75 AS base
+FROM node:lts-alpine@sha256:5352962f5574720de4ce7dab5abcff56095c227f82aeebd86d8cf091ed9fae91 AS base
 
 FROM base AS deps
 
