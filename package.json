@@ -27,7 +27,7 @@
 		"@vitejs/plugin-react-swc": "3.7.2",
 		"autoprefixer": "10.4.20",
 		"cross-env": "7.0.3",
-		"daisyui": "4.12.22",
+		"daisyui": "4.12.23",
 		"jsdom": "25.0.1",
 		"lefthook": "1.10.1",
 		"postcss": "8.4.49",
