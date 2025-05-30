@@ -27,7 +27,7 @@
 		"@types/react-dom": "19.1.5",
 		"@vitejs/plugin-react-swc": "3.10.0",
 		"cross-env": "7.0.3",
-		"daisyui": "5.0.42",
+		"daisyui": "5.0.43",
 		"jsdom": "26.1.0",
 		"lefthook": "1.11.13",
 		"postcss": "8.5.4",
