@@ -21,7 +21,7 @@ COPY . .
 
 RUN npm run build
 
-FROM nginx:alpine-slim@sha256:51b40fe7186159f930e76ad201dec7c32b56cff7c57a57377966b3927a8607b5 AS runner
+FROM nginx:alpine-slim@sha256:94f1c83ea210e0568f87884517b4fe9a39c74b7677e0ad3de72700cfa3da7268 AS runner
 
 WORKDIR /app
 
