@@ -29,7 +29,7 @@
 		"cross-env": "10.1.0",
 		"daisyui": "5.5.20",
 		"jsdom": "29.1.1",
-		"lefthook": "2.1.6",
+		"lefthook": "2.1.8",
 		"postcss": "8.5.15",
 		"tailwindcss": "4.3.0",
 		"ts-node": "10.9.2",
