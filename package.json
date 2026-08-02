@@ -25,7 +25,7 @@
 		"@testing-library/user-event": "14.6.1",
 		"@types/react": "19.2.17",
 		"@types/react-dom": "19.2.3",
-		"@vitejs/plugin-react-swc": "4.3.2",
+		"@vitejs/plugin-react-swc": "4.3.3",
 		"cross-env": "10.1.0",
 		"daisyui": "5.7.8",
 		"jsdom": "30.0.1",
