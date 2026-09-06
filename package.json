@@ -30,7 +30,7 @@
 		"daisyui": "5.7.28",
 		"jsdom": "30.0.1",
 		"lefthook": "2.1.12",
-		"postcss": "8.5.26",
+		"postcss": "8.5.28",
 		"tailwindcss": "4.3.3",
 		"ts-node": "10.9.2",
 		"typescript": "7.0.2",
