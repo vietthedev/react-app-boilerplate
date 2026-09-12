@@ -12,8 +12,8 @@
 		"prepare": "lefthook install"
 	},
 	"dependencies": {
-		"react": "19.2.8",
-		"react-dom": "19.2.8"
+		"react": "19.3.0",
+		"react-dom": "19.3.0"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.5.12",
@@ -23,8 +23,8 @@
 		"@testing-library/jest-dom": "7.0.1",
 		"@testing-library/react": "16.3.3",
 		"@testing-library/user-event": "14.6.7",
-		"@types/react": "19.2.18",
-		"@types/react-dom": "19.2.7",
+		"@types/react": "19.3.0",
+		"@types/react-dom": "19.3.0",
 		"@vitejs/plugin-react-swc": "4.3.3",
 		"cross-env": "10.1.0",
 		"daisyui": "5.7.32",
